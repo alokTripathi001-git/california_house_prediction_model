@@ -92,16 +92,6 @@ Open `main.ipynb` to explore and run the project step-by-step.
 
 ---
 
-## 📊 Model Performance
-
-| Model             | RMSE | R² Score |
-| ----------------- | ---- | -------- |
-| Linear Regression | 0.72 | 0.61     |
-| Decision Tree     | 0.56 | 0.78     |
-| Random Forest     | 0.49 | 0.85     |
-
----
-
 ## 📌 Future Improvements
 
 * Hyperparameter tuning with GridSearchCV
